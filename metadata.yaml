@@ -1,5 +1,8 @@
 _repo: Bird-s-nest-a-fantasy-in-one-act_70524
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70524-h/images/cover.jpg
 creator:
   author:
     agent_name: Mygatt, Tracy D. (Tracy Dickinson)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55789
     wikipedia: https://en.wikipedia.org/wiki/Tracy_Dickinson_Mygatt
 description: Without the music (by Stanley Muschamp).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70524#Bird-s-nest-a-fantasy-in-one-act
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70524'
